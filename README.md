@@ -1,4 +1,4 @@
-# Face Detection. Just using FaceApiJS
+# 📣 😳 Face Detection. Just using FaceApiJS
 [Medium article is here](https://medium.com/@andrewrymaruk/face-detection-just-using-faceapijs-d03d737e87be?sk=8ec91d92d18a8e65064562b5ce87ee2e "Face Detection. Just using FaceApiJS")
 
 ![](https://miro.medium.com/max/1632/0*YtsSfrhiF0rCGqEY.png)
@@ -9,3 +9,5 @@
 * Streaming a webcam through HTML
 * Using Face API to detect faces in real-time
 * Drawing facial landmarks in real-time
+
+[Medium article is here](https://medium.com/@andrewrymaruk/face-detection-just-using-faceapijs-d03d737e87be?sk=8ec91d92d18a8e65064562b5ce87ee2e "Face Detection. Just using FaceApiJS")
